@@ -1,0 +1,53 @@
+h1 {
+    color: red;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+div.sample{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+main{
+    margin-top: 8em;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+main > .container {
+    padding: 60px 15px 0;
+}
+
+div.mycard{
+    margin: auto; 
+    width: 18rem; 
+}
+
+
+ul{
+        display: flex;
+        align-items: center;
+         align-content: space-between;
+     
+}
+
+
+
+li{ 
+     display: flex;
+     flex-direction: column;
+     align-content: space-between;
+    
+     
+    
+}
+
+
+
